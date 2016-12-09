@@ -9,6 +9,6 @@ Int main()
 
 printf(“Hore aku
 bisa memprogram!”) ;
-
+printf("di tambahin nih sama akuuu~");
 
 }
