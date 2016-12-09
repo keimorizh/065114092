@@ -1,0 +1,14 @@
+#include<stdio.h> 
+
+
+Int main() 
+
+
+{ 
+
+
+printf(“Hore aku
+bisa memprogram!”) ;
+
+
+}
